@@ -37,3 +37,6 @@ npm-debug.log*
 
 # Local config files
 *.local.*
+
+# Other
+temp
